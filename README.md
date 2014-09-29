@@ -1,4 +1,6 @@
-###Project_For_Fun
+###My Projects For Fun
+
+All the programs here are the codes for not important reasons. I use them to learn new stuffs. 
 
 * Checkee Analysis: I was so boring during the waiting time for my visa; thus I wrote a short script to visulize the statistics of waiting time.
 * Kalah: I helped my friend write a game in C++. Only Human vs Human; no AI. 
