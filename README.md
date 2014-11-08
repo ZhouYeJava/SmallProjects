@@ -1,4 +1,4 @@
-###My Projects For Fun
+###My Small Projects
 
 All the programs here are the codes for not important reasons. I use them to learn new stuffs. 
 
